@@ -42,13 +42,13 @@ git clone https://github.com/yourusername/tulle-cutting-simulation.git
 
 3. Install dependencies
 - npm install
-# or
+ or
 - yarn install
 
 
 4. Start the development server
 - npm run dev
-# or
+ or
 - yarn dev
 
 
