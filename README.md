@@ -21,6 +21,7 @@ A realistic tulle fabric cutting simulation using React, TypeScript, and HTML5 C
 - HTML5 Canvas
 - Vite
 - TailwindCSS
+- Project IDX
 
 ## Getting Started
 
