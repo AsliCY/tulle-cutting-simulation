@@ -2,7 +2,7 @@
 
 A realistic tulle fabric cutting simulation using React, TypeScript, and HTML5 Canvas. This interactive web application simulates the physics of fabric tearing and movement, providing a realistic cutting experience.
 
-![Demo](./assets/demo.gif)
+![Demo](./demo.gif)
 
 ## Features
 
